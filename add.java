@@ -1,7 +1,7 @@
 class add
 {
   public static void main(String[] args) {
-    System.err.println(123);
+    System.err.println(1236);
     
   }
 }
