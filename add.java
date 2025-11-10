@@ -4,5 +4,4 @@ class add
     System.out.println(1236);
     
     System.out.println(1245);
-  }
-}
+  
